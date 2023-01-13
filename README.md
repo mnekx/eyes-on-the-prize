@@ -1,8 +1,8 @@
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [eyes-on-the-prize] <a name="about-project"></a>
+# 📖 eyes-on-the-prize <a name="about-project"></a>
 
-**[eyes-on-the-prize]** is a...
+**eyes-on-the-prize** is a simple python script that, with the help of a scheduler (crontab for linux systems) will pop-up full-screen mode in your machine a show you a list of tasks/prizes that you need to focus on, on that particular time.
 
 ## 🛠 Built With <a name="built-with"></a>
 

@@ -1,3 +1,5 @@
+## Screenshot ![screenshot](./app_screenshot.png)
+
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 eyes-on-the-prize <a name="about-project"></a>
